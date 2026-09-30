@@ -1,0 +1,11 @@
+id_transacao,valor,data,hora,localizacao,resultado
+001,85.50,2026-09-01,14:20,Sao Paulo,Normal
+002,4800.00,2026-09-01,03:15,Sao Paulo,Suspeita
+003,120.00,2026-09-02,16:40,Sao Paulo,Normal
+004,3500.00,2026-09-02,02:10,Rio de Janeiro,Suspeita
+005,75.90,2026-09-03,12:30,Sao Paulo,Normal
+006,6200.00,2026-09-03,04:05,Belo Horizonte,Suspeita
+007,230.00,2026-09-04,18:20,Sao Paulo,Normal
+008,95.00,2026-09-04,19:10,Sao Paulo,Normal
+009,5100.00,2026-09-05,01:45,Curitiba,Suspeita
+010,180.00,2026-09-05,15:25,Sao Paulo,Normal
